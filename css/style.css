@@ -1,0 +1,43 @@
+.rojo, .azul, .amarillo, .verde, .purpura, .naranja{
+    color: #fff;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    font-size: 25px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+
+}
+.rojo{
+    background: rgb(236, 10, 10);
+    border: 15px dotted #5b0802;
+    box-sizing: border-box;
+}
+.azul{
+    background: rgb(4, 179, 185);
+    border: 15px ridge #22add3;
+    box-sizing: border-box;
+}
+.amarillo{
+    background: rgb(245, 245, 12);
+    border: 15px dashed #e3e033;
+    box-sizing: border-box;
+}
+.verde{
+    background: rgb(12, 245, 63);
+    border: 15px inset #0a7e29;
+    box-sizing: border-box;
+}
+.purpura{
+    background: mediumorchid;
+    border: 15px double #4b0082;
+    box-sizing: border-box;
+
+}
+.naranja{
+    background: orange;
+    border: 15px outset #b38208;
+    box-sizing: border-box;
+}
